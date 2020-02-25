@@ -1,2 +1,2 @@
 # Scratch
-Scratch project GitHubra feltöltése
+<img src"=project.png">
